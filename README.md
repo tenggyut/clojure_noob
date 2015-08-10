@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # clojure-noob
 
 FIXME: description
@@ -34,3 +35,6 @@ Copyright © 2015 FIXME
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
+=======
+# clojure_noob
+>>>>>>> c61a5b5d53752ef44e520071a9c17f5d434dd260
